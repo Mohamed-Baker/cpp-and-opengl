@@ -1,20 +1,4 @@
-# cpp-and-opengl
+# Solar System
 
 
-
-2 simple projects 
-
-
-
-connect 4 , solar system
-
-
-
-
-graphics class projects
-
-
-
-
-
-third year in college
+ solar system C++ project with openGl
